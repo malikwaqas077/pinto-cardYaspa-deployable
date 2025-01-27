@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CONFIG>
+<filePath>.\Logs\logFile</filePath>
+<fileSize>1048576</fileSize>
+<logLevel>DEBUG</logLevel></CONFIG>

@@ -1,0 +1,6 @@
+27/01/2025 13:45:05 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 66) - Initialising new GBG Ctrl
+27/01/2025 13:45:05 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 74) - Calling ServerCertificateValidationCallback
+27/01/2025 13:45:05 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 85) - GBG url set
+27/01/2025 13:45:05 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 96) - System key does not exist
+27/01/2025 13:45:05 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 108) - System key is empty, initial registration of machine
+27/01/2025 13:45:05 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 120) - Response Code : 0

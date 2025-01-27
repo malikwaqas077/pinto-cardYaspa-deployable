@@ -1,0 +1,166 @@
+17/01/2025 11:16:01 INFO (Project: SST.Alio, Class: AlioCtrl, Method: .ctor, Line: 58) - Entered AlioCtrl(192.168.2.111,50051,OnlineThenOffline,AllCards,60,0.0.0.0,5901,False)
+17/01/2025 11:16:01 INFO (Project: SST.Alio, Class: AlioCtrl, Method: .ctor, Line: 74) - Exiting AlioCtrl Contstructor
+17/01/2025 11:16:01 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Connect, Line: 90) - Entered Connect()
+17/01/2025 11:16:01 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Connect, Line: 120) - Exiting Connect
+17/01/2025 11:16:02 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 133) - Channel state: Idle
+17/01/2025 11:16:02 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 173) - Establishing Channel connection
+17/01/2025 11:16:02 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 191) - Channel state: Ready
+17/01/2025 11:16:02 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: PaymentStateTask, Line: 323) - Current payment state: Idle
+17/01/2025 11:16:04 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 191) - Channel state: Ready
+17/01/2025 11:16:04 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 232) - Getting device details
+17/01/2025 11:16:04 INFO (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 746) - Entered GetDeviceDetails()
+17/01/2025 11:16:04 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 751) - Payment client is not null
+17/01/2025 11:16:04 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 754) - Resetting device info
+17/01/2025 11:16:04 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 756) - Info has been reset
+17/01/2025 11:16:04 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 759) - Getting device info
+17/01/2025 11:16:07 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 761) - Reply : NoError
+17/01/2025 11:16:07 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 765) - ALIO FW Version : 02.41.03.b0081
+17/01/2025 11:16:07 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 766) - ALIO HW Version : Atmel SAMA5D27 BV1KGTV
+17/01/2025 11:16:07 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 767) - ALIO Serial No : 1020004996
+17/01/2025 11:16:07 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 768) - ALIO State : Ready
+17/01/2025 11:16:07 INFO (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 787) - Exiting GetDeviceDetails
+17/01/2025 11:16:07 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 236) - Device ready
+17/01/2025 11:16:07 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 240) - FlexUI Port : 5901 | FlexUI Address : 0.0.0.0
+17/01/2025 12:29:53 INFO (Project: SST.Alio, Class: AlioCtrl, Method: .ctor, Line: 58) - Entered AlioCtrl(192.168.2.111,50051,OnlineThenOffline,AllCards,60,0.0.0.0,5901,False)
+17/01/2025 12:29:53 INFO (Project: SST.Alio, Class: AlioCtrl, Method: .ctor, Line: 74) - Exiting AlioCtrl Contstructor
+17/01/2025 12:29:53 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Connect, Line: 90) - Entered Connect()
+17/01/2025 12:29:53 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Connect, Line: 120) - Exiting Connect
+17/01/2025 12:29:53 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 133) - Channel state: Idle
+17/01/2025 12:29:53 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 173) - Establishing Channel connection
+17/01/2025 12:29:53 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 191) - Channel state: Ready
+17/01/2025 12:29:53 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: PaymentStateTask, Line: 323) - Current payment state: Idle
+17/01/2025 12:29:55 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 191) - Channel state: Ready
+17/01/2025 12:29:55 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 232) - Getting device details
+17/01/2025 12:29:55 INFO (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 746) - Entered GetDeviceDetails()
+17/01/2025 12:29:55 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 751) - Payment client is not null
+17/01/2025 12:29:55 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 754) - Resetting device info
+17/01/2025 12:29:55 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 756) - Info has been reset
+17/01/2025 12:29:55 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 759) - Getting device info
+17/01/2025 12:29:57 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 761) - Reply : NoError
+17/01/2025 12:29:57 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 765) - ALIO FW Version : 02.41.03.b0081
+17/01/2025 12:29:57 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 766) - ALIO HW Version : Atmel SAMA5D27 BV1KGTV
+17/01/2025 12:29:57 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 767) - ALIO Serial No : 1020004996
+17/01/2025 12:29:57 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 768) - ALIO State : Ready
+17/01/2025 12:29:57 INFO (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 787) - Exiting GetDeviceDetails
+17/01/2025 12:29:57 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 236) - Device ready
+17/01/2025 12:29:57 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 240) - FlexUI Port : 5901 | FlexUI Address : 0.0.0.0
+17/01/2025 12:33:20 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: StartTransaction, Line: 903) - Starting txn: Purchase, 2000, 638727139964044614
+17/01/2025 12:33:20 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Purchase, Line: 935) - Entered Purchase(2000,638727139964044614)
+17/01/2025 12:33:20 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Purchase, Line: 939) - changing txnInProgress to true
+17/01/2025 12:33:20 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Purchase, Line: 1004) - Exiting Purchase
+17/01/2025 12:33:22 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: PaymentStateTask, Line: 333) - New payment state: WaitingForCard
+17/01/2025 14:20:29 INFO (Project: SST.Alio, Class: AlioCtrl, Method: .ctor, Line: 58) - Entered AlioCtrl(192.168.2.111,50051,OnlineThenOffline,AllCards,60,0.0.0.0,5901,False)
+17/01/2025 14:20:29 INFO (Project: SST.Alio, Class: AlioCtrl, Method: .ctor, Line: 74) - Exiting AlioCtrl Contstructor
+17/01/2025 14:20:29 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Connect, Line: 90) - Entered Connect()
+17/01/2025 14:20:29 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Connect, Line: 120) - Exiting Connect
+17/01/2025 14:20:29 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 133) - Channel state: Idle
+17/01/2025 14:20:29 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 173) - Establishing Channel connection
+17/01/2025 14:20:29 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 191) - Channel state: Ready
+17/01/2025 14:20:30 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: PaymentStateTask, Line: 323) - Current payment state: Idle
+17/01/2025 14:20:31 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 191) - Channel state: Ready
+17/01/2025 14:20:31 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 232) - Getting device details
+17/01/2025 14:20:31 INFO (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 746) - Entered GetDeviceDetails()
+17/01/2025 14:20:31 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 751) - Payment client is not null
+17/01/2025 14:20:31 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 754) - Resetting device info
+17/01/2025 14:20:31 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 756) - Info has been reset
+17/01/2025 14:20:31 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 759) - Getting device info
+17/01/2025 14:20:34 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 761) - Reply : NoError
+17/01/2025 14:20:34 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 765) - ALIO FW Version : 02.41.03.b0081
+17/01/2025 14:20:34 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 766) - ALIO HW Version : Atmel SAMA5D27 BV1KGTV
+17/01/2025 14:20:34 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 767) - ALIO Serial No : 1020004996
+17/01/2025 14:20:34 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 768) - ALIO State : Ready
+17/01/2025 14:20:34 INFO (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 787) - Exiting GetDeviceDetails
+17/01/2025 14:20:34 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 236) - Device ready
+17/01/2025 14:20:34 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 240) - FlexUI Port : 5901 | FlexUI Address : 0.0.0.0
+17/01/2025 14:54:58 INFO (Project: SST.Alio, Class: AlioCtrl, Method: .ctor, Line: 58) - Entered AlioCtrl(192.168.2.111,50051,OnlineThenOffline,AllCards,60,0.0.0.0,5901,False)
+17/01/2025 14:54:58 INFO (Project: SST.Alio, Class: AlioCtrl, Method: .ctor, Line: 74) - Exiting AlioCtrl Contstructor
+17/01/2025 14:54:58 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Connect, Line: 90) - Entered Connect()
+17/01/2025 14:54:59 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Connect, Line: 120) - Exiting Connect
+17/01/2025 14:54:59 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 133) - Channel state: Idle
+17/01/2025 14:54:59 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 173) - Establishing Channel connection
+17/01/2025 14:54:59 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 191) - Channel state: Ready
+17/01/2025 14:54:59 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: PaymentStateTask, Line: 323) - Current payment state: Idle
+17/01/2025 14:55:01 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 191) - Channel state: Ready
+17/01/2025 14:55:01 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 232) - Getting device details
+17/01/2025 14:55:01 INFO (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 746) - Entered GetDeviceDetails()
+17/01/2025 14:55:01 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 751) - Payment client is not null
+17/01/2025 14:55:01 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 754) - Resetting device info
+17/01/2025 14:55:01 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 756) - Info has been reset
+17/01/2025 14:55:01 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 759) - Getting device info
+17/01/2025 14:55:03 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 761) - Reply : NoError
+17/01/2025 14:55:03 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 765) - ALIO FW Version : 02.41.03.b0081
+17/01/2025 14:55:03 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 766) - ALIO HW Version : Atmel SAMA5D27 BV1KGTV
+17/01/2025 14:55:03 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 767) - ALIO Serial No : 1020004996
+17/01/2025 14:55:03 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 768) - ALIO State : Ready
+17/01/2025 14:55:03 INFO (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 787) - Exiting GetDeviceDetails
+17/01/2025 14:55:03 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 236) - Device ready
+17/01/2025 14:55:03 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 240) - FlexUI Port : 5901 | FlexUI Address : 0.0.0.0
+17/01/2025 15:15:31 INFO (Project: SST.Alio, Class: AlioCtrl, Method: .ctor, Line: 58) - Entered AlioCtrl(192.168.2.111,50051,OnlineThenOffline,AllCards,60,0.0.0.0,5901,False)
+17/01/2025 15:15:31 INFO (Project: SST.Alio, Class: AlioCtrl, Method: .ctor, Line: 74) - Exiting AlioCtrl Contstructor
+17/01/2025 15:15:31 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Connect, Line: 90) - Entered Connect()
+17/01/2025 15:15:31 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Connect, Line: 120) - Exiting Connect
+17/01/2025 15:15:31 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 133) - Channel state: Idle
+17/01/2025 15:15:31 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 173) - Establishing Channel connection
+17/01/2025 15:15:31 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 191) - Channel state: Ready
+17/01/2025 15:15:31 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: PaymentStateTask, Line: 323) - Current payment state: Idle
+17/01/2025 15:15:33 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 191) - Channel state: Ready
+17/01/2025 15:15:33 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 232) - Getting device details
+17/01/2025 15:15:33 INFO (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 746) - Entered GetDeviceDetails()
+17/01/2025 15:15:33 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 751) - Payment client is not null
+17/01/2025 15:15:33 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 754) - Resetting device info
+17/01/2025 15:15:33 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 756) - Info has been reset
+17/01/2025 15:15:33 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 759) - Getting device info
+17/01/2025 15:15:36 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 761) - Reply : NoError
+17/01/2025 15:15:36 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 765) - ALIO FW Version : 02.41.03.b0081
+17/01/2025 15:15:36 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 766) - ALIO HW Version : Atmel SAMA5D27 BV1KGTV
+17/01/2025 15:15:36 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 767) - ALIO Serial No : 1020004996
+17/01/2025 15:15:36 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 768) - ALIO State : Ready
+17/01/2025 15:15:36 INFO (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 787) - Exiting GetDeviceDetails
+17/01/2025 15:15:36 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 236) - Device ready
+17/01/2025 15:15:36 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 240) - FlexUI Port : 5901 | FlexUI Address : 0.0.0.0
+17/01/2025 15:17:43 INFO (Project: SST.Alio, Class: AlioCtrl, Method: .ctor, Line: 58) - Entered AlioCtrl(192.168.2.111,50051,OnlineThenOffline,AllCards,60,0.0.0.0,5901,False)
+17/01/2025 15:17:43 INFO (Project: SST.Alio, Class: AlioCtrl, Method: .ctor, Line: 74) - Exiting AlioCtrl Contstructor
+17/01/2025 15:17:43 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Connect, Line: 90) - Entered Connect()
+17/01/2025 15:17:43 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Connect, Line: 120) - Exiting Connect
+17/01/2025 15:17:43 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 133) - Channel state: Idle
+17/01/2025 15:17:43 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 173) - Establishing Channel connection
+17/01/2025 15:17:43 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 191) - Channel state: Ready
+17/01/2025 15:17:43 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: PaymentStateTask, Line: 323) - Current payment state: Idle
+17/01/2025 15:17:45 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 191) - Channel state: Ready
+17/01/2025 15:17:45 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 232) - Getting device details
+17/01/2025 15:17:45 INFO (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 746) - Entered GetDeviceDetails()
+17/01/2025 15:17:45 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 751) - Payment client is not null
+17/01/2025 15:17:45 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 754) - Resetting device info
+17/01/2025 15:17:45 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 756) - Info has been reset
+17/01/2025 15:17:45 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 759) - Getting device info
+17/01/2025 15:17:47 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 761) - Reply : NoError
+17/01/2025 15:17:47 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 765) - ALIO FW Version : 02.41.03.b0081
+17/01/2025 15:17:47 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 766) - ALIO HW Version : Atmel SAMA5D27 BV1KGTV
+17/01/2025 15:17:47 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 767) - ALIO Serial No : 1020004996
+17/01/2025 15:17:47 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 768) - ALIO State : Ready
+17/01/2025 15:17:47 INFO (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 787) - Exiting GetDeviceDetails
+17/01/2025 15:17:47 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 236) - Device ready
+17/01/2025 15:17:47 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 240) - FlexUI Port : 5901 | FlexUI Address : 0.0.0.0
+17/01/2025 16:04:48 INFO (Project: SST.Alio, Class: AlioCtrl, Method: .ctor, Line: 58) - Entered AlioCtrl(192.168.2.111,50051,OnlineThenOffline,AllCards,60,0.0.0.0,5901,False)
+17/01/2025 16:04:48 INFO (Project: SST.Alio, Class: AlioCtrl, Method: .ctor, Line: 74) - Exiting AlioCtrl Contstructor
+17/01/2025 16:04:48 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Connect, Line: 90) - Entered Connect()
+17/01/2025 16:04:49 INFO (Project: SST.Alio, Class: AlioCtrl, Method: Connect, Line: 120) - Exiting Connect
+17/01/2025 16:04:49 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 133) - Channel state: Idle
+17/01/2025 16:04:49 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 173) - Establishing Channel connection
+17/01/2025 16:04:49 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 191) - Channel state: Ready
+17/01/2025 16:04:49 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: PaymentStateTask, Line: 323) - Current payment state: Idle
+17/01/2025 16:04:51 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 191) - Channel state: Ready
+17/01/2025 16:04:51 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 232) - Getting device details
+17/01/2025 16:04:51 INFO (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 746) - Entered GetDeviceDetails()
+17/01/2025 16:04:51 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 751) - Payment client is not null
+17/01/2025 16:04:51 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 754) - Resetting device info
+17/01/2025 16:04:51 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 756) - Info has been reset
+17/01/2025 16:04:51 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 759) - Getting device info
+17/01/2025 16:04:53 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 761) - Reply : NoError
+17/01/2025 16:04:53 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 765) - ALIO FW Version : 02.41.03.b0081
+17/01/2025 16:04:53 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 766) - ALIO HW Version : Atmel SAMA5D27 BV1KGTV
+17/01/2025 16:04:53 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 767) - ALIO Serial No : 1020004996
+17/01/2025 16:04:53 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 768) - ALIO State : Ready
+17/01/2025 16:04:53 INFO (Project: SST.Alio, Class: AlioCtrl, Method: GetDeviceDetails, Line: 787) - Exiting GetDeviceDetails
+17/01/2025 16:04:53 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 236) - Device ready
+17/01/2025 16:04:53 DEBUG (Project: SST.Alio, Class: AlioCtrl, Method: ConnectionStateTask, Line: 240) - FlexUI Port : 5901 | FlexUI Address : 0.0.0.0

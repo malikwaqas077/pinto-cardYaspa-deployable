@@ -1,0 +1,215 @@
+17/01/2025 11:15:57 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 11:16:12 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 11:16:12 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 122) - Serial port is null, initiating new instance
+17/01/2025 11:16:12 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 128) - Serial port set up
+17/01/2025 11:16:12 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 131) - Attempting to open serial port
+17/01/2025 11:16:12 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 134) - Resetting printer
+17/01/2025 11:16:12 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 194) - Entered reset printer
+17/01/2025 11:16:12 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 200) - Serial port is open, sending reset command
+17/01/2025 11:16:12 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 136) - Printer has been reset
+17/01/2025 11:16:12 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 140) - Getting version info
+17/01/2025 11:16:12 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 141) - Version info : 1TransAct Edge E001TTL0106
+17/01/2025 11:16:12 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 143) - Returning true
+17/01/2025 12:29:47 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 12:30:02 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 12:30:02 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 122) - Serial port is null, initiating new instance
+17/01/2025 12:30:02 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 128) - Serial port set up
+17/01/2025 12:30:02 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 131) - Attempting to open serial port
+17/01/2025 12:30:02 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 134) - Resetting printer
+17/01/2025 12:30:02 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 194) - Entered reset printer
+17/01/2025 12:30:02 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 200) - Serial port is open, sending reset command
+17/01/2025 12:30:02 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 136) - Printer has been reset
+17/01/2025 12:30:02 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 140) - Getting version info
+17/01/2025 12:30:02 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 141) - Version info : 1TransAct Edge E001TTL0106
+17/01/2025 12:30:02 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 143) - Returning true
+17/01/2025 14:20:24 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 14:20:39 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 14:20:39 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 122) - Serial port is null, initiating new instance
+17/01/2025 14:20:39 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 128) - Serial port set up
+17/01/2025 14:20:39 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 131) - Attempting to open serial port
+17/01/2025 14:20:44 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 14:20:44 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 14:20:44 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 14:20:44 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 14:20:49 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 14:20:49 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 14:20:49 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 14:20:49 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 14:20:54 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 14:20:54 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 14:20:54 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 14:20:54 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 14:20:59 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 14:20:59 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 14:20:59 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 14:20:59 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 14:21:04 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 14:21:04 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 14:21:04 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 14:21:04 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 14:21:09 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 14:21:09 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 14:21:09 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 14:21:09 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 14:21:09 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 168) - Resetting device
+17/01/2025 14:21:09 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 194) - Entered reset printer
+17/01/2025 14:21:09 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 200) - Serial port is open, sending reset command
+17/01/2025 14:21:09 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 173) - Version info : 1TransAct Edge E001TTL0106
+17/01/2025 14:21:09 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 175) - Returning true
+17/01/2025 14:22:52 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 14:23:20 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 194) - Entered reset printer
+17/01/2025 14:23:20 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 200) - Serial port is open, sending reset command
+17/01/2025 14:23:49 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 14:24:04 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 14:24:37 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 14:26:01 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 194) - Entered reset printer
+17/01/2025 14:26:01 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 200) - Serial port is open, sending reset command
+17/01/2025 14:26:49 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 14:54:53 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 14:55:08 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 14:55:08 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 122) - Serial port is null, initiating new instance
+17/01/2025 14:55:08 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 128) - Serial port set up
+17/01/2025 14:55:08 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 131) - Attempting to open serial port
+17/01/2025 14:55:08 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 134) - Resetting printer
+17/01/2025 14:55:08 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 194) - Entered reset printer
+17/01/2025 14:55:08 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 200) - Serial port is open, sending reset command
+17/01/2025 14:55:08 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 136) - Printer has been reset
+17/01/2025 14:55:08 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 140) - Getting version info
+17/01/2025 14:55:09 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 141) - Version info : 1TransAct Edge E001TTL0106
+17/01/2025 14:55:09 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 143) - Returning true
+17/01/2025 14:55:42 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 15:15:26 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 15:15:41 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:15:41 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 122) - Serial port is null, initiating new instance
+17/01/2025 15:15:41 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 128) - Serial port set up
+17/01/2025 15:15:41 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 131) - Attempting to open serial port
+17/01/2025 15:15:41 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 134) - Resetting printer
+17/01/2025 15:15:41 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 194) - Entered reset printer
+17/01/2025 15:15:41 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 200) - Serial port is open, sending reset command
+17/01/2025 15:15:41 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 136) - Printer has been reset
+17/01/2025 15:15:41 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 140) - Getting version info
+17/01/2025 15:15:41 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 141) - Version info : 1TransAct Edge E001TTL0106
+17/01/2025 15:15:41 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 143) - Returning true
+17/01/2025 15:15:49 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 15:17:39 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 15:17:51 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:17:51 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 122) - Serial port is null, initiating new instance
+17/01/2025 15:17:51 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 128) - Serial port set up
+17/01/2025 15:17:51 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 131) - Attempting to open serial port
+17/01/2025 15:17:51 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 134) - Resetting printer
+17/01/2025 15:17:51 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 194) - Entered reset printer
+17/01/2025 15:17:51 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 200) - Serial port is open, sending reset command
+17/01/2025 15:17:51 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 136) - Printer has been reset
+17/01/2025 15:17:51 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 140) - Getting version info
+17/01/2025 15:17:51 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 141) - Version info : 1TransAct Edge E001TTL0106
+17/01/2025 15:17:51 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 143) - Returning true
+17/01/2025 15:17:59 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 15:18:34 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 194) - Entered reset printer
+17/01/2025 15:18:34 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 200) - Serial port is open, sending reset command
+17/01/2025 15:28:54 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 15:30:42 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 15:32:44 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 15:48:22 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:22 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:22 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:22 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:22 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:22 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:22 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:22 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:23 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:23 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:23 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:23 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:23 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:23 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:23 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:23 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:23 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:23 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:23 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:23 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:23 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:23 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:23 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:23 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:24 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:24 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:24 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:24 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:24 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:24 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:24 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:24 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:24 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:24 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:24 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:24 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:24 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:24 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:24 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:24 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:25 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:25 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:25 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:25 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:25 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:25 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:25 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:25 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:25 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:25 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:25 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:25 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:25 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:25 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:25 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:25 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:26 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:26 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:26 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:26 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:26 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:26 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:26 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:26 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:26 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:26 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:26 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:26 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:26 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:26 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:26 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:26 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:27 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:27 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:27 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:27 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:27 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:27 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:27 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:27 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:27 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:27 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:27 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:27 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:27 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:27 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:27 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:27 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 15:48:28 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 15:48:28 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 153) - Serial port is not null, initiating new instance
+17/01/2025 15:48:28 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 162) - Getting port names
+17/01/2025 15:48:28 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 165) - Attempting to open port
+17/01/2025 16:04:44 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: .ctor, Line: 31) - Software version : 2.0.0.0
+17/01/2025 16:04:59 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 116) - Entered initalise printer on port : COM7
+17/01/2025 16:04:59 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 122) - Serial port is null, initiating new instance
+17/01/2025 16:04:59 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 128) - Serial port set up
+17/01/2025 16:04:59 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 131) - Attempting to open serial port
+17/01/2025 16:04:59 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 134) - Resetting printer
+17/01/2025 16:04:59 INFO (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 194) - Entered reset printer
+17/01/2025 16:04:59 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Reset, Line: 200) - Serial port is open, sending reset command
+17/01/2025 16:04:59 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 136) - Printer has been reset
+17/01/2025 16:04:59 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 140) - Getting version info
+17/01/2025 16:04:59 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 141) - Version info : 1TransAct Edge E001TTL0106
+17/01/2025 16:04:59 DEBUG (Project: SST.EpicEdgeCtrl, Class: EpicEdgeCtrl, Method: Initialise, Line: 143) - Returning true
