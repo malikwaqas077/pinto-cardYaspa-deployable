@@ -1,0 +1,74 @@
+29/01/2025 08:53:38 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 66) - Initialising new GBG Ctrl
+29/01/2025 08:53:38 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 74) - Calling ServerCertificateValidationCallback
+29/01/2025 08:53:38 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 85) - GBG url set
+29/01/2025 08:53:38 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 96) - System key does not exist
+29/01/2025 08:53:38 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 108) - System key is empty, initial registration of machine
+29/01/2025 08:53:38 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 120) - Response Code : 0
+29/01/2025 08:54:15 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 08:54:41 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 08:55:04 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: CompleteSerialNumber, Line: 400) - Calling ServerCertificateValidationCallback
+29/01/2025 08:55:20 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 08:55:54 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 08:56:10 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: CompleteSerialNumber, Line: 400) - Calling ServerCertificateValidationCallback
+29/01/2025 09:22:52 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 66) - Initialising new GBG Ctrl
+29/01/2025 09:22:52 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 74) - Calling ServerCertificateValidationCallback
+29/01/2025 09:22:52 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 85) - GBG url set
+29/01/2025 09:22:52 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 96) - System key does not exist
+29/01/2025 09:22:52 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 108) - System key is empty, initial registration of machine
+29/01/2025 09:22:52 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 120) - Response Code : 0
+29/01/2025 09:23:38 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 09:24:14 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 09:26:04 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: CompleteSerialNumber, Line: 400) - Calling ServerCertificateValidationCallback
+29/01/2025 09:26:27 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 09:28:07 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 09:28:24 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: CompleteSerialNumber, Line: 400) - Calling ServerCertificateValidationCallback
+29/01/2025 09:30:45 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 09:31:33 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 09:31:56 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 09:32:16 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: CompleteSerialNumber, Line: 400) - Calling ServerCertificateValidationCallback
+29/01/2025 09:32:20 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 09:32:48 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 09:33:01 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: CompleteSerialNumber, Line: 400) - Calling ServerCertificateValidationCallback
+29/01/2025 09:34:26 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 09:40:38 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 09:41:14 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 09:41:28 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: CompleteSerialNumber, Line: 400) - Calling ServerCertificateValidationCallback
+29/01/2025 09:44:01 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 09:44:42 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 09:45:13 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: CompleteSerialNumber, Line: 400) - Calling ServerCertificateValidationCallback
+29/01/2025 12:17:40 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 66) - Initialising new GBG Ctrl
+29/01/2025 12:17:40 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 74) - Calling ServerCertificateValidationCallback
+29/01/2025 12:17:40 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 85) - GBG url set
+29/01/2025 12:17:40 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 96) - System key does not exist
+29/01/2025 12:17:40 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 108) - System key is empty, initial registration of machine
+29/01/2025 12:17:41 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 120) - Response Code : 0
+29/01/2025 12:18:17 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 12:23:39 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 66) - Initialising new GBG Ctrl
+29/01/2025 12:23:39 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 74) - Calling ServerCertificateValidationCallback
+29/01/2025 12:23:39 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 85) - GBG url set
+29/01/2025 12:23:39 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 96) - System key does not exist
+29/01/2025 12:23:39 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 108) - System key is empty, initial registration of machine
+29/01/2025 12:23:40 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 120) - Response Code : 0
+29/01/2025 12:23:44 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 12:26:08 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 66) - Initialising new GBG Ctrl
+29/01/2025 12:26:08 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 74) - Calling ServerCertificateValidationCallback
+29/01/2025 12:26:08 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 85) - GBG url set
+29/01/2025 12:26:08 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 96) - System key does not exist
+29/01/2025 12:26:08 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 108) - System key is empty, initial registration of machine
+29/01/2025 12:26:08 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 120) - Response Code : 0
+29/01/2025 12:26:13 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 12:27:33 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 66) - Initialising new GBG Ctrl
+29/01/2025 12:27:33 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 74) - Calling ServerCertificateValidationCallback
+29/01/2025 12:27:33 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 85) - GBG url set
+29/01/2025 12:27:33 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 96) - System key does not exist
+29/01/2025 12:27:33 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 108) - System key is empty, initial registration of machine
+29/01/2025 12:27:33 INFO (Project: SST.GBGCtrl, Class: GBGCtrl, Method: .ctor, Line: 120) - Response Code : 0
+29/01/2025 12:27:34 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 12:29:27 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 12:29:43 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 12:31:42 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 12:31:58 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 12:32:30 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 12:33:52 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 12:35:21 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: GetSerialNumber, Line: 371) - Calling ServerCertificateValidationCallback
+29/01/2025 12:35:36 DEBUG (Project: SST.GBGCtrl, Class: GBGCtrl, Method: CompleteSerialNumber, Line: 400) - Calling ServerCertificateValidationCallback

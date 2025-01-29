@@ -101,3 +101,88 @@
 27/01/2025 13:45:06 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 939) - Application has restarted. Checking if there are any logs older than 14 days to remove
 27/01/2025 13:45:06 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 962) - <===== Data Initialized =====>
 27/01/2025 13:45:10 ERROR (Project: SST.Pinto, Class: MainWindow, Method: CheckPrinterConnectionTimer_Tick, Line: 4084) - Cannot connect to printer on com port : COM7
+27/01/2025 13:53:32 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8313) - Loading error page with 1 errors
+27/01/2025 13:53:32 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8318) - Error : Printer error
+27/01/2025 13:53:32 DEBUG (Project: SST.Pinto, Class: ErrorScreen, Method: .ctor, Line: 30) - loading error page
+27/01/2025 13:53:32 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8339) - inactivity timer is not enabled, starting
+27/01/2025 13:53:32 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8343) - Enabled inactivity timer
+27/01/2025 13:53:32 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8344) - inactivity timer interval : 00:00:30
+27/01/2025 13:53:32 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8354) - Checking the status of each device and sending out emails if necessary
+27/01/2025 13:53:32 INFO (Project: SST.Pinto, Class: MainWindow, Method: SendEmails, Line: 3768) - Entered Send Emails to check if error emails have been sent
+27/01/2025 13:53:32 INFO (Project: SST.Pinto, Class: MainWindow, Method: SendEmails, Line: 3885) - Alerts have not been enabled
+27/01/2025 13:53:32 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8357) - Error page loaded
+27/01/2025 14:26:22 INFO (Project: SST.Pinto, Class: MainWindow, Method: .ctor, Line: 253) - <===== Application Starting =====>
+27/01/2025 14:26:24 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 283) - <===== Initializing Data =====>
+27/01/2025 14:26:25 INFO (Project: SST.Pinto, Class: MainWindow, Method: ExecutePowerShellScript, Line: 9552) - PS output: 
+27/01/2025 14:26:25 INFO (Project: SST.Pinto, Class: MainWindow, Method: CheckForSplashtop, Line: 9564) - Checking if splashtop is already installed
+27/01/2025 14:26:25 INFO (Project: SST.Pinto, Class: MainWindow, Method: CheckForSplashtop, Line: 9574) - Splashtop not installed, checking if there is internet connection
+27/01/2025 14:26:25 INFO (Project: SST.Pinto, Class: MainWindow, Method: CheckForSplashtop, Line: 9581) - Internet available, continuing to install splashtop
+27/01/2025 14:26:25 INFO (Project: SST.Pinto, Class: MainWindow, Method: InstallSplashtop, Line: 8771) - Installing splashtop
+27/01/2025 14:26:25 ERROR (Project: SST.Pinto, Class: MainWindow, Method: InstallSplashtop, Line: 8787) - Error installing splashtop : The system cannot find the file specified
+27/01/2025 14:26:25 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 296) - Create table for failed to void/refund transactions if it does not exist
+27/01/2025 14:26:27 ERROR (Project: SST.Pinto, Class: DeviceConfig, Method: CreateFailedVoidRefundTable, Line: 1404) - Error creating the table : The given key was not present in the dictionary.
+27/01/2025 14:26:27 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 298) - Checking all columns in database are present
+27/01/2025 14:26:27 ERROR (Project: SST.Pinto, Class: DeviceConfig, Method: CheckMk2DatabaseColumns, Line: 1083) - Error checking all columns : Authentication to host 'localhost' for user 'root' using method 'caching_sha2_password' failed with message: Unknown database 'sst.pintor'
+27/01/2025 14:26:27 ERROR (Project: SST.Pinto, Class: DeviceConfig, Method: CheckMk3DatabaseColumns, Line: 1342) - Error checking all columns : Authentication to host 'localhost' for user 'root' using method 'caching_sha2_password' failed with message: Unknown database 'sst.pintomk3'
+27/01/2025 14:26:27 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 314) - WEBSOCKET: Loading config
+27/01/2025 14:26:27 DEBUG (Project: SST.Pinto, Class: DeviceConfig, Method: LoadConfigWebSocket, Line: 1574) - WEBSOCKET: Entered load config
+27/01/2025 14:26:27 DEBUG (Project: SST.Pinto, Class: DeviceConfig, Method: LoadConfigWebSocket, Line: 1582) - WEBSOCKET: Sql connection opened
+27/01/2025 14:26:27 DEBUG (Project: SST.Pinto, Class: DeviceConfig, Method: LoadConfigWebSocket, Line: 1635) - WEBSOCKET: Config file loaded successfully
+27/01/2025 14:26:27 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 316) - Loading config
+27/01/2025 14:26:27 DEBUG (Project: SST.Pinto, Class: DeviceConfig, Method: LoadConfig, Line: 1444) - Entered load config
+27/01/2025 14:26:27 DEBUG (Project: SST.Pinto, Class: DeviceConfig, Method: LoadConfig, Line: 1452) - Sql connection opened
+27/01/2025 14:26:27 DEBUG (Project: SST.Pinto, Class: DeviceConfig, Method: LoadConfig, Line: 1484) - GBG Type : Rimini
+27/01/2025 14:26:27 DEBUG (Project: SST.Pinto, Class: DeviceConfig, Method: LoadConfig, Line: 1548) - Config file loaded successfully
+27/01/2025 14:26:27 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 320) - Config Loaded
+27/01/2025 14:26:27 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 325) - Config Json Data: {"DeviceID":"WaqasDesk","CustomerName":"ASK Global","CustomerAddress":"Webber Leisure Walkden","StreetAddress":"M28 3AX","AlioIPAddress":"192.168.2.111","AlioPort":"50051","PrinterComPort":"COM7","ResetPassword":null,"FlexibleUIPort":"5901","RebootAlio":false,"RebootAlioTime":"2025-01-27T00:00:00","RebootPC":false,"RebootPCTime":"2025-01-27T00:00:00","FullCustomerAddress":null,"SocketCommsIPAddress":null,"SocketCommsPort":null,"BookingAPIAddress":null,"PrinterType":null,"KioskPreamble":null,"Version":"Mk1","PushBookingAPI":null,"SiteCode":0,"UseBookingAPI":false,"AssetNumber":"SSTPINTO02","SerialNumber":"SSTPINTO02","MACAddress":"02-02-02-02-02-02","Currency":"GBP","Language":"English","System":"","URL":"http://80.235.236.180:14080/cashlessservice21.asmx","IPAddress":"0.0.0.0","PortNo":"NOTSET","FlexibleUIIP":"0.0.0.0","EnablePence":false,"QponURL":null,"QponClientId":null,"GBGType":0,"VendorID":"","ProductID":"","RFIDReader":"","CardReaderComPort":"","WSSettings":"wss://askportaldev.azurewebsites.net/ws","CustomerCode":"DFAAA17C","DevId":1110,"LocationCode":null,"UseGuardian":false,"GuardianURL":null,"RemoveTimeSlotAfter":0,"ReceiptType":"","LocationString":"","AlioFWVersion":"02.41.03.b0081","AlioSerialNo":"1020004996","SWVersion":"","PintoSerial":"PINTO-0077","ConnectionId":"","EnableAdditionalAmount":false,"AdditionalAmount":1.00,"EnableAdditionalPercentage":false,"AdditionalPercentage":0.00,"CardLimit":300.00,"SetCardLimit":true,"CardType":0,"SenderEmail":null,"EmailPort":0,"EmailHostName":null,"EmailPassword":null,"SetTransactionLimit":true,"TransactionLimit":300.00,"NeonURL":null,"NeonUsername":null,"NeonPassword":null,"StoreTxnsRemotely":true,"RemoteAPIUrl":"https://sstpintoapi.azurewebsites.net/","NeonPCName":null,"MinimumPayment":10.00,"CardEaseURL":"https://test.cardeasexml.com/generic.cex","TID":"99961874","TxnKey":"2vd7MWxkjUUQbb3v","PrintReceipt":true,"ConfirmPrintReceiptPage":true,"EnableYaspa":true,"AmountFirst":100,"AmountSecond":80,"AmountThird":60,"AmountFourth":40,"AmountFifth":20,"MarchantID":"65fc50988467016ac5f80e1d","APIKey":"24fcc7e4-9001-4b7b-9e33-97a943d1b71a","YaspaBaseURL":"https://testapi.yaspa.com","QRcodeLink":"https://testapi.paywithcitizen.com"}
+27/01/2025 14:26:27 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 334) - WEBSOCKET: Will now connect to WS
+27/01/2025 14:26:27 INFO (Project: SST.Pinto, Class: MainWindow, Method: HandleMessages, Line: 1955) - Entered handle message
+27/01/2025 14:26:27 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 340) - Store txns remotely is set to true, setting up Http Client for the api with url https://sstpintoapi.azurewebsites.net/
+27/01/2025 14:26:28 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 355) - API Connection established
+27/01/2025 14:26:28 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 375) - Setting up licencing data
+27/01/2025 14:26:28 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 376) - Product name : SST.Pinto
+27/01/2025 14:26:28 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 377) - Software version : 2.0.0.0
+27/01/2025 14:26:28 INFO (Project: SST.Pinto, Class: DBEmailControl, Method: GetEmailStatus, Line: 21) - Getting email statuses from database
+27/01/2025 14:26:28 DEBUG (Project: SST.Pinto, Class: DBEmailControl, Method: GetEmailStatus, Line: 50) - Email statuses : 0,0,0
+27/01/2025 14:26:28 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 418) - WEBSOCKET: Sending first PING
+27/01/2025 14:26:28 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 431) - WEBSOCKET: <ApplicationRestarted;2025-01-27T14:26:28.0313710+00:00~1110;WaqasDesk>
+27/01/2025 14:26:29 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 440) - Setting up alio
+27/01/2025 14:26:29 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 443) - Alio details - IP : 192.168.2.111, Port : 50051, FlexUI IP : 0.0.0.0, FlexUI Port : 5901
+27/01/2025 14:26:29 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 473) - Alio card type : AllCards
+27/01/2025 14:26:29 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 480) - Alio ctrl initialised
+27/01/2025 14:26:29 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 485) - Waiting for the device to be be available
+27/01/2025 14:26:31 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 485) - Waiting for the device to be be available
+27/01/2025 14:26:31 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 384) - Licencing result : True
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: AlioCtrl_OnAlioMessageReceived, Line: 5254) - Alio Message : Error
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: AlioCtrl_OnAlioMessageReceived, Line: 5256) - Screen message : Device Available
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: AlioCtrl_OnAlioMessageReceived, Line: 6552) - Screen Message : Device Available
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: AlioCtrl_OnAlioMessageReceived, Line: 6591) - Device Available
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: AlioCtrl_OnAlioMessageReceived, Line: 6601) - Setting card error to false and status to an empty string
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: AlioCtrl_OnAlioMessageReceived, Line: 6605) - Errors count : 0
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: AlioCtrl_OnAlioMessageReceived, Line: 6610) - Checking last txn state
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: CheckLastTxn, Line: 7932) - Last txn state : PaymentCancelled
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: CheckLastTxn, Line: 8122) - Last txn has been cancelled, loading main menu/error page
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadMainMenu, Line: 8279) - Alio is not available, loading error page
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8313) - Loading error page with 0 errors
+27/01/2025 14:26:33 DEBUG (Project: SST.Pinto, Class: ErrorScreen, Method: .ctor, Line: 30) - loading error page
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8339) - inactivity timer is not enabled, starting
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8343) - Enabled inactivity timer
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8344) - inactivity timer interval : 00:00:30
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8354) - Checking the status of each device and sending out emails if necessary
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: SendEmails, Line: 3768) - Entered Send Emails to check if error emails have been sent
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: SendEmails, Line: 3885) - Alerts have not been enabled
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8357) - Error page loaded
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: AlioCtrl_OnAlioMessageReceived, Line: 6615) - WEBSOCKET: <AlioError;Alio Available~2025-01-27T14:26:33.1307886+00:00~1110;WaqasDesk>
+27/01/2025 14:26:33 INFO (Project: SST.Pinto, Class: MainWindow, Method: AlioCtrl_OnAlioMessageReceived, Line: 6619) - Alio is available, starting reboot timer
+27/01/2025 14:26:39 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 500) - Alio ctrl has been set up successfully
+27/01/2025 14:26:39 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 502) - Setting card device available to true
+27/01/2025 14:26:39 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 510) - Serial number and fw version are not empty
+27/01/2025 14:26:39 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 521) - FW Version : 02.41.03.b0081, Serial No : 1020004996
+27/01/2025 14:26:39 INFO (Project: SST.Pinto, Class: MainWindow, Method: InitializeDataAsync, Line: 527) - Alio details have not been sent
+27/01/2025 14:26:39 INFO (Project: SST.Pinto, Class: MainWindow, Method: AlioCtrl_OnAlioMessageReceived, Line: 5254) - Alio Message : Error
+27/01/2025 14:26:39 INFO (Project: SST.Pinto, Class: MainWindow, Method: AlioCtrl_OnAlioMessageReceived, Line: 5256) - Screen message : Device Unavailable
+27/01/2025 14:26:39 INFO (Project: SST.Pinto, Class: MainWindow, Method: AlioCtrl_OnAlioMessageReceived, Line: 6552) - Screen Message : Device Unavailable
+27/01/2025 14:26:39 ERROR (Project: SST.Pinto, Class: MainWindow, Method: AlioCtrl_OnAlioMessageReceived, Line: 6559) - Device Unavailable
+27/01/2025 14:26:39 INFO (Project: SST.Pinto, Class: MainWindow, Method: AlioCtrl_OnAlioMessageReceived, Line: 6575) - Showing Error screen
+27/01/2025 14:26:39 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8313) - Loading error page with 1 errors
+27/01/2025 14:26:39 INFO (Project: SST.Pinto, Class: MainWindow, Method: LoadErrorPage, Line: 8318) - Error : Payment device error
